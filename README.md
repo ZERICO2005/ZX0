@@ -31,7 +31,7 @@ Afterwards you can choose a decompressor routine in assembly Z80, according to
 your requirements for speed and size:
 
 * "Standard" routine: 68 bytes only
-* "Turbo" routine: 126 bytes, about 21% faster
+* "Turbo" routine: 125 bytes, about 21% faster
 * "Fast" routine: 187 bytes, about 25% faster
 * "Mega" routine: 673 bytes, about 28% faster
 
